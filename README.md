@@ -1,50 +1,60 @@
-<h1 align="center">Hi 👋, I'm Chanchal Dhanwe</h1>
-<h3 align="center">🚀 Java Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Chanchal Dhanwe</h1>
+<h3 align="center">Java Backend Developer • Building Scalable Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Applications;Open+to+Internships" />
+  <a href="https://github.com/CDha5">
+    <img src="https://komarev.com/ghpvc/?username=CDha5&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 💻 Passionate about Backend Development  
-- 🛠 Skilled in Java, MySQL, Docker  
-- 🌱 Currently learning **Spring Boot & Microservices**  
-- 📍 Based in India  
-- 📫 Email: chanchaldhanwe05@gmail.com  
+- 🔭 Currently working on **Java Backend Projects**
+- 🌱 Learning **Spring Boot & Microservices**
+- 💡 Interested in **System Design & Scalable APIs**
+- 📫 Reach me at: **chanchaldhanwe05@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,mysql,docker,git,cpp" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,python,js,react,cpp" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CDha5&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDha5&layout=compact&theme=tokyonight" height="165"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CDha5&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDha5&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CDha5&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=CDha5&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### 📌 Featured Projects
 
-<p align="center">
+- 🔹 **E-Commerce Backend API**
+- 🔹 **Student Management System**
+- 🔹 **Expense Tracker**
+- 🔹 **RESTful Authentication System**
+
+---
+
+### 🤝 Connect With Me
+
+<p>
   <a href="https://www.linkedin.com/in/chanchaldhanwe05">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -52,4 +62,6 @@
 
 ---
 
-⭐️ *Always open to internship and backend development opportunities.*
+<p align="center">
+  <i>Code. Build. Improve. Repeat.</i>
+</p>
