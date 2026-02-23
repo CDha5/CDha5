@@ -1,63 +1,55 @@
-# Hi, I'm Chanchal Dhanwe 👋  
+<h1 align="center">Hi 👋, I'm Chanchal Dhanwe</h1>
+<h3 align="center">🚀 Java Developer | Problem Solver | Tech Enthusiast</h3>
 
-🚀 Java Backend Developer | Software Engineer | Problem Solver  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Applications;Open+to+Internships" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Strong in Java, OOP & Backend Development  
-- 🛠 Building scalable applications using Java, MySQL & Docker  
-- 🌱 Currently learning: Spring Boot & Microservices  
-- 📍 Based in Pune, India  
-- 📫 Reach me at: chanchaldhanwe05@gmail.com  
+- 💻 Passionate about Backend Development  
+- 🛠 Skilled in Java, MySQL, Docker  
+- 🌱 Currently learning **Spring Boot & Microservices**  
+- 📍 Based in India  
+- 📫 Email: chanchaldhanwe05@gmail.com  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Languages
-Java | Python | JavaScript | C++
-
-### ⚙️ Backend & Tools
-Spring Boot | JDBC | MySQL | Docker | Git
-
-### 📊 Data & Libraries
-Pandas | Scikit-learn
-
-### 🌐 Frontend
-React | React Native
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Student Management System**  
-Java + MySQL based CRUD system  
-
-🔹 **E-commerce Backend API**  
-REST API built using Spring Boot  
-
-🔹 **Expense Tracker**  
-Full-stack project with authentication  
-
-(Replace these with your actual project names and links)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,mysql,docker,git,cpp" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Chanchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDha5&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CDha5&layout=compact&theme=dark)
-
----
-
-## 🔗 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/chanchaldhanwe05)  
-[GitHub](https://github.com/CDha5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CDha5&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDha5&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-⭐️ Always open to internships and backend development opportunities.
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CDha5&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chanchaldhanwe05">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐️ *Always open to internship and backend development opportunities.*
